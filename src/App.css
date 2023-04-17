@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Orbitron', sans-serif;
+  letter-spacing: 0.19em;
+  font-weight: bold;
+
+}
+
+main{
+  width: 100vw;
+  height: 100vh;
+  background-image: url("/background.jpg");
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
